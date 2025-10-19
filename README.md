@@ -12,7 +12,7 @@ Repositório da Dupla 08 do semeste 2025.2.
 
 ## Objetivo
 
-Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvidos em sala de aula sobre o assunto Grafos 2.
+Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvidos em sala de aula sobre o assunto Algoritmos Gulosos (Greedy Algorithms).
 
 ## Instalação
 
@@ -22,18 +22,31 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 |Código do Problema| Nome do Problema | Resolução | Dificuldade
 |----------|----------|----------|----------|
-|316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/submissions/1795909861/?envType=problem-list-v2&envId=greedy)|assets/[316](./1489.java)|Média|
-|1330|[Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/?envType=problem-list-v2&envId=greedy)|[1330](./assets/1514.png|Difícil|
+|44|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching)|[44](./assets/44.png)|Difícil|
+|55|[Jump Game](https://leetcode.com/problems/jump-game)|[55](./assets/55.png)|Média|
+|316| [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/submissions/1795909861/?envType=problem-list-v2&envId=greedy)|[316](assets/316.png)|Média|
+|1330|[Reverse Subarray To Maximize Array Value](https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/description/?envType=problem-list-v2&envId=greedy)|[1330](./assets/1330.png)|Difícil|
+
 
 ## Apresentação
 
 [Link para a apresentação]()
 
 ## Screenshots
-### 1330
+
+### 44
+
 <center>
 
-![1330](./assets/1330.png)
+![44](./assets/44.png)
+
+</center>
+
+### 55
+
+<center>
+
+![55](./assets/55.png)
 
 </center>
 
@@ -44,6 +57,14 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 ![316](./assets/316.png)
 
 </center>
+
+### 1330
+<center>
+
+![1330](./assets/1330.png)
+
+</center>
+
 
 
 ## Pré-requisitos

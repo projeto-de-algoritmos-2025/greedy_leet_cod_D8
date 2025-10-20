@@ -31,24 +31,3 @@ class Solution {
     }
 }
 
-// --- Exemplo de Uso (Em uma classe Main para teste) ---
-public class Main {
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-
-        // Exemplo 1: [2, 3, 1, 1, 4] -> true
-        int[] nums1 = {2, 3, 1, 1, 4};
-        System.out.println("Input: [2,3,1,1,4] -> " 
-                           + sol.canJump(nums1)); 
-
-        // Exemplo 2: [3, 2, 1, 0, 4] -> false
-        int[] nums2 = {3, 2, 1, 0, 4};
-        System.out.println("Input: [3,2,1,0,4] -> " 
-                           + sol.canJump(nums2));
-        
-        // Exemplo 3: [0] -> true
-        int[] nums3 = {0};
-        System.out.println("Input: [0] -> " 
-                           + sol.canJump(nums3));
-    }
-}

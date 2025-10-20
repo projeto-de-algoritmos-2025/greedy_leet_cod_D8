@@ -59,33 +59,3 @@ class Solution {
     }
 }
 
-// --- Exemplo de Uso (Opcional) ---
-public class Main {
-    public static void main(String[] args) {
-        Solution sol = new Solution();
-
-        // Exemplo 1:
-        String s1 = "aa";
-        String p1 = "a";
-        System.out.println("s=\"" + s1 + "\", p=\"" + p1 + "\" -> " 
-                           + sol.isMatch(s1, p1)); // Saída: false
-
-        // Exemplo 2:
-        String s2 = "aa";
-        String p2 = "*";
-        System.out.println("s=\"" + s2 + "\", p=\"" + p2 + "\" -> " 
-                           + sol.isMatch(s2, p2)); // Saída: true
-
-        // Exemplo 3:
-        String s3 = "cb";
-        String p3 = "?a";
-        System.out.println("s=\"" + s3 + "\", p=\"" + p3 + "\" -> " 
-                           + sol.isMatch(s3, p3)); // Saída: false
-
-        // Exemplo Adicional:
-        String s4 = "adceb";
-        String p4 = "*a*b";
-        System.out.println("s=\"" + s4 + "\", p=\"" + p4 + "\" -> " 
-                           + sol.isMatch(s4, p4)); // Saída: true
-    }
-}

@@ -30,7 +30,7 @@ Desenvolver questões em que possamos explorar nossos conhecimentos desenvolvido
 
 ## Apresentação
 
-[Link para a apresentação]()
+[Link para a apresentação](https://www.youtube.com/watch?v=rSvjtLfVsZM)
 
 ## Screenshots
 
